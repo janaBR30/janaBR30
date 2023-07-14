@@ -6,8 +6,8 @@
  📧 Contact: janabacrauber@gmail.com
 
 <a href="https://github.com/janaBR30/github-readme-stats">
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=janaBR30&show_icons=true&theme=tokyonight" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=janaBR30&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/janaBR30/convoychat">
-  <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janaBR30&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janaBR30&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
